@@ -1,0 +1,116 @@
+:root{
+    -Slate:#434455;
+    -Iris:#4D5AE5;
+    -Navy-Blue:#2E2F42;
+    -White:#FFFFFF;
+    -Cloud:#F4F4FD;
+}
+body{
+    color:var(-Navy-Blue);
+    font-family:'Roboto';
+    font-weight: 400;
+    line-height: 1.50;
+    font-size: 16px;
+}
+/*Header Styles*/
+
+.header{
+    color:var(-White);
+}
+.web{
+    color:var(-Iris);
+    font-weight: 900;
+    font-family:'Raleway';
+    font-size: 18px;
+    line-height:1.33;
+}
+.studio{
+    color:var(-Navy-Blue);
+    font-family:'Raleway';
+    font-weight: 900;
+    font-size: 18px;
+    line-height:1.33;
+}
+.navigation{
+    color:var(-Navy-Blue);
+    font-weight: 600;
+}
+.info{
+    color:var(-Slate);
+}
+.tel{
+    color:var(-Slate);
+}
+/* Main Styles */
+
+.main-index{
+
+}
+
+.main-content{
+    background-color:var(-Navy-Blue);
+}
+.main-text{
+    color:var(-White);
+    font-weight: 600;
+    font-size: 56px;
+    line-height:1.07;
+}
+.order_service{
+    cursor:pointer;
+    background-color: var(-Iris);
+    color:var(-White);
+    font-size: 600;
+}
+
+/*  */
+.main-our_skills{
+    
+}
+.main-what_we_doing{
+
+}
+.we_doing{
+    
+}
+.our_team{
+
+}
+.photos{
+
+}
+.main-portfolio{
+
+}
+.button-all{
+    background-color: var(-Iris);
+    color:var(-White);
+    font-weight: 600;
+}
+.button-portfolio{
+    background-color: var(-Cloud);
+    color:var(-Iris);
+    font-weight: 600;
+}
+.section-all{
+
+}
+.section-text{
+    font-weight: 600;
+    font-size: 36px;
+    line-height:1.11;
+}
+.h_text{
+    font-weight: 600;
+    font-size: 20px;
+    line-height:1.20;
+}
+.p_text{
+    color:var(-Slate);
+}
+/*footer styles*/
+
+.footer{
+    color:var(-White);
+}
+
