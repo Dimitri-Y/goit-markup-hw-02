@@ -4,6 +4,7 @@
     --Navy-Blue:#2E2F42;
     --White:#FFFFFF;
     --Cloud:#F4F4FD;
+    --Cornflower:#E7E9FC;
 }
 body{
     color:var(--Navy-Blue);
@@ -24,7 +25,7 @@ body{
     font-size: 18px;
     line-height:1.33;
 }
-.studio{
+.studio-header{
     color:var(--Navy-Blue);
     font-family:'Raleway';
     font-weight: 900;
@@ -112,6 +113,13 @@ body{
 /*footer styles*/
 
 .footer{
-    color:var(--White);
+    color:var(--Cornflower);
+    background-color:var(--Navy-Blue);
 }
-
+.studio-footer{
+    color:var(--Cloud);
+    font-family:'Raleway';
+    font-weight: 900;
+    font-size: 18px;
+    line-height:1.33;
+}
