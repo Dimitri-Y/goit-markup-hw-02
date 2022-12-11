@@ -31,6 +31,10 @@ body{
 .header{
     color:var(--White);
 }
+.webstudio{
+    text-decoration: none;
+    text-transform: uppercase;
+}
 .web{
     color:var(--Iris);
     font-weight: 900;
@@ -46,6 +50,8 @@ body{
     font-weight: 900;
     font-size: 18px;
     line-height:1.33;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 .navigation{
     color:var(--Navy-Blue);
@@ -54,9 +60,11 @@ body{
 }
 .info{
     color:var(--Slate);
+    text-decoration: none;
 }
 .tel{
     color:var(--Slate);
+    text-decoration: none;
 }
 /* Main Styles */
 
