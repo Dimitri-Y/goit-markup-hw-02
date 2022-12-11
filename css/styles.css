@@ -37,6 +37,8 @@ body{
     font-family:'Raleway';
     font-size: 18px;
     line-height:1.33;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 .studio-header{
     color:var(--Navy-Blue);
@@ -94,7 +96,7 @@ body{
 .list-we_doing{
    list-style-type: none;
 }
-our_team{
+.our_team{
  background-color: var(--Cloud);
 }
 .list-photos{
@@ -110,7 +112,7 @@ our_team{
 .list-button{
     list-style-type: none;
 }
-.button-all{
+.button-portfolio:hover{
     background-color: var(--Iris);
     color:var(--White);
     font-weight: 600;
@@ -159,4 +161,6 @@ our_team{
     font-weight: 900;
     font-size: 18px;
     line-height:1.33;
+    text-decoration: none;
+    text-transform: uppercase;
 }
